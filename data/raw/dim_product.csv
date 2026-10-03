@@ -1,0 +1,76 @@
+product_id,product_name,category,subcategory,brand,supplier_id,unit_cost,standard_price,popularity
+P0001,Wireless Headphones,Electronics,Audio,Brand A,SUP008,4292.62,7279.32,Low
+P0002,Bluetooth Speaker,Electronics,Audio,Brand D,SUP005,4474.55,7775.41,High
+P0003,Earbuds,Electronics,Audio,Brand C,SUP009,9962.56,12793.42,Medium
+P0004,Soundbar,Electronics,Audio,Brand A,SUP007,8399.78,12872.01,Medium
+P0005,Wired Headphones,Electronics,Audio,Brand B,SUP001,11780.08,14903.51,High
+P0006,USB-C Cable,Electronics,Accessories,Brand C,SUP010,9998.27,16030.67,High
+P0007,Wireless Mouse,Electronics,Accessories,Brand D,SUP008,6155.16,8424.82,Medium
+P0008,Mechanical Keyboard,Electronics,Accessories,Brand D,SUP008,12228.9,19513.09,Low
+P0009,Laptop Stand,Electronics,Accessories,Brand C,SUP002,2587.9,4234.31,Medium
+P0010,Power Bank,Electronics,Accessories,Brand E,SUP005,438.41,728.28,Low
+P0011,Laptop,Electronics,Computing,Brand C,SUP004,1441.71,1823.25,Low
+P0012,Desktop Monitor,Electronics,Computing,Brand A,SUP010,10863.15,19006.24,Medium
+P0013,External SSD,Electronics,Computing,Brand D,SUP007,6981.97,9342.77,Low
+P0014,Webcam,Electronics,Computing,Brand C,SUP009,2502.95,3059.73,High
+P0015,USB Hub,Electronics,Computing,Brand C,SUP005,7565.57,11597.35,High
+P0016,Office Chair,Furniture,Office,Brand C,SUP003,2369.45,3370.67,Low
+P0017,Computer Desk,Furniture,Office,Brand A,SUP006,10475.17,17785.52,Low
+P0018,Office Table,Furniture,Office,Brand E,SUP001,6747.73,11369.59,Medium
+P0019,Filing Cabinet,Furniture,Office,Brand E,SUP009,5777.22,8031.97,Medium
+P0020,Bookshelf,Furniture,Office,Brand B,SUP007,4592.53,8136.77,Medium
+P0021,Sofa,Furniture,Home,Brand A,SUP008,9491.21,13046.15,Low
+P0022,Coffee Table,Furniture,Home,Brand D,SUP004,5491.01,8286.12,Medium
+P0023,Dining Table,Furniture,Home,Brand A,SUP010,1405.98,1903.11,Medium
+P0024,Dining Chair,Furniture,Home,Brand C,SUP009,1858.29,3273.61,Medium
+P0025,TV Stand,Furniture,Home,Brand D,SUP008,14432.28,18744.14,Medium
+P0026,Storage Cabinet,Furniture,Storage,Brand D,SUP002,13637.85,16732.91,Medium
+P0027,Plastic Drawer,Furniture,Storage,Brand B,SUP005,10525.64,15378.57,Low
+P0028,Storage Box,Furniture,Storage,Brand C,SUP001,4061.46,7292.05,Medium
+P0029,Shoe Rack,Furniture,Storage,Brand C,SUP002,14540.73,25228.26,Medium
+P0030,Wardrobe,Furniture,Storage,Brand D,SUP007,11703.39,19300.82,Medium
+P0031,Mineral Water,Grocery,Beverages,Brand E,SUP008,10781.66,18700.53,Low
+P0032,Soft Drink,Grocery,Beverages,Brand B,SUP010,6795.49,11797.43,Low
+P0033,Fruit Juice,Grocery,Beverages,Brand C,SUP004,4156.4,6281.63,High
+P0034,Instant Coffee,Grocery,Beverages,Brand E,SUP004,1536.23,2134.68,High
+P0035,Tea Pack,Grocery,Beverages,Brand A,SUP005,13548.78,22534.43,Medium
+P0036,Potato Chips,Grocery,Snacks,Brand D,SUP002,6891.07,11005.02,High
+P0037,Biscuits,Grocery,Snacks,Brand C,SUP002,3115.21,4436.67,Low
+P0038,Chocolate,Grocery,Snacks,Brand D,SUP005,4658.75,5854.56,Medium
+P0039,Nuts,Grocery,Snacks,Brand B,SUP003,8730.37,14388.29,High
+P0040,Cereal Bar,Grocery,Snacks,Brand C,SUP007,2733.91,3711.22,Low
+P0041,Rice,Grocery,Staples,Brand E,SUP005,12863.55,22666.71,High
+P0042,Lentils,Grocery,Staples,Brand A,SUP009,11401.94,15330.85,Medium
+P0043,Cooking Oil,Grocery,Staples,Brand D,SUP008,10820.0,13780.94,High
+P0044,Sugar,Grocery,Staples,Brand A,SUP004,6538.19,11106.21,High
+P0045,Flour,Grocery,Staples,Brand D,SUP009,9446.9,12205.12,High
+P0046,Casual Shirt,Fashion,Mens,Brand C,SUP009,8803.06,11510.54,High
+P0047,Formal Shirt,Fashion,Mens,Brand E,SUP004,9782.71,15257.4,High
+P0048,T-Shirt,Fashion,Mens,Brand E,SUP003,1358.22,2342.57,High
+P0049,Jeans,Fashion,Mens,Brand B,SUP007,6295.53,8296.63,Medium
+P0050,Polo Shirt,Fashion,Mens,Brand D,SUP002,720.05,998.13,Medium
+P0051,Kurti,Fashion,Womens,Brand E,SUP002,7460.46,12432.43,Medium
+P0052,Saree,Fashion,Womens,Brand E,SUP001,5014.93,8942.1,Medium
+P0053,Salwar Kameez,Fashion,Womens,Brand D,SUP008,2253.41,3381.12,Medium
+P0054,Women's Top,Fashion,Womens,Brand D,SUP007,1640.7,2110.5,Low
+P0055,Women's Jeans,Fashion,Womens,Brand C,SUP008,8855.9,10701.13,Low
+P0056,Running Shoes,Fashion,Footwear,Brand B,SUP008,2641.84,3534.24,High
+P0057,Formal Shoes,Fashion,Footwear,Brand C,SUP005,13884.29,17759.3,High
+P0058,Sneakers,Fashion,Footwear,Brand C,SUP006,8757.81,14070.26,Medium
+P0059,Sandals,Fashion,Footwear,Brand A,SUP002,5268.36,6707.15,Medium
+P0060,Casual Shoes,Fashion,Footwear,Brand B,SUP002,8904.64,13390.78,Medium
+P0061,Electric Kettle,Home Appliances,Kitchen,Brand C,SUP007,439.78,710.93,Medium
+P0062,Rice Cooker,Home Appliances,Kitchen,Brand D,SUP005,14382.53,22273.79,High
+P0063,Blender,Home Appliances,Kitchen,Brand E,SUP006,7286.32,9616.96,Medium
+P0064,Microwave Oven,Home Appliances,Kitchen,Brand A,SUP008,11762.75,19790.53,Medium
+P0065,Electric Stove,Home Appliances,Kitchen,Brand C,SUP007,1332.68,2171.26,High
+P0066,Vacuum Cleaner,Home Appliances,Cleaning,Brand C,SUP006,7351.21,12080.91,Low
+P0067,Electric Mop,Home Appliances,Cleaning,Brand A,SUP006,7411.53,9476.64,High
+P0068,Steam Cleaner,Home Appliances,Cleaning,Brand D,SUP004,14073.61,17933.33,Low
+P0069,Handheld Vacuum,Home Appliances,Cleaning,Brand D,SUP001,8618.75,15139.16,High
+P0070,Floor Polisher,Home Appliances,Cleaning,Brand B,SUP005,7154.99,10292.79,Low
+P0071,Table Fan,Home Appliances,Small Appliances,Brand E,SUP003,4077.94,5629.88,Low
+P0072,Air Purifier,Home Appliances,Small Appliances,Brand B,SUP005,5040.38,7526.05,Low
+P0073,Room Heater,Home Appliances,Small Appliances,Brand E,SUP009,7858.02,12554.9,Low
+P0074,Humidifier,Home Appliances,Small Appliances,Brand A,SUP003,6639.78,11774.81,Low
+P0075,Air Cooler,Home Appliances,Small Appliances,Brand E,SUP001,422.02,578.96,Medium
